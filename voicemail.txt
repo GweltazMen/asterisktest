@@ -1,0 +1,14 @@
+[general] 
+maxmsg=100 ; Nombre max de message sur la boite vocale 
+maxsecs=0 ; Durée max d'un message. Dans le cas de "0" = pas de 
+limite
+minsecs=2 ; Durée minimum d'un message
+[general]
+maxmsg=100 
+maxsecs=0 
+minsecs=2 
+
+[appel_vm] 
+1000 => 12345, Brah Bassim 
+1001 => 12345, Moritie Camara 
+1002 => 12345, Daouda Maiga
